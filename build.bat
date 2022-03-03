@@ -1,0 +1,1 @@
+xcopy /s/e .\client\build .\server\public
